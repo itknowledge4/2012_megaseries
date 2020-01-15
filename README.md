@@ -12,5 +12,6 @@ You can find all presentations, code and other materials from the Windows Server
 [6. Windows Server with a GUI, Server Core and Minimal Server interface](https://youtu.be/cgcul8nup0s)<br/>
 [7. Install and configure DHCP on Windows Server 2012](https://youtu.be/XMgoi1-56xs)<br/>
 [8. Demote a Windows Server 2012 Domain Controller](https://youtu.be/8pmCDC0Ppmw)<br/>
-[9. Introduction to DHCP Failover on Windows Server 2012](https://youtu.be/7nW6TVh_y9g)
+[9. Introduction to DHCP Failover on Windows Server 2012](https://youtu.be/7nW6TVh_y9g)<br/>
+[10. Install and configure Windows Server 2012 Core](https://youtu.be/Xc1qiAbwhz4)
 
