@@ -1,0 +1,2 @@
+IP address,managed by service,service instance,device type,ip address state,assignment type,device name
+192.168.10.2,IPAM,localhost,host,in-use,static,DC02
