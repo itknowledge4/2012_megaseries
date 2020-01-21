@@ -16,5 +16,5 @@ You can find all presentations, code and other materials from the Windows Server
 [10. Install and configure Windows Server 2012 Core](https://youtu.be/Xc1qiAbwhz4)<br/>
 [11. Configure DHCP Failover on Windows Server 2012 with Powershell](https://youtu.be/XAjxQ7hmvtA)<br/>
 [12. Introduction to IPAM on Windows Server 2012](https://youtu.be/jAwN0EW2oec)<br/>
-[13. Install and configure IPAM on Windows Server 2012](https://youtu.be/wlGzhjwyGO0)
-
+[13. Install and configure IPAM on Windows Server 2012](https://youtu.be/wlGzhjwyGO0)<br/>
+[14. Install and configure WSUS with Powershell on Windows Server 2012](https://youtu.be/kkS2miGH_jA)
