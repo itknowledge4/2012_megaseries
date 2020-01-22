@@ -18,4 +18,5 @@ You can find all presentations, code and other materials from the Windows Server
 [12. Introduction to IPAM on Windows Server 2012](https://youtu.be/jAwN0EW2oec)<br/>
 [13. Install and configure IPAM on Windows Server 2012](https://youtu.be/wlGzhjwyGO0)<br/>
 [14. Install and configure WSUS with Powershell on Windows Server 2012](https://youtu.be/kkS2miGH_jA)<br/>
-[15. Install and configure Windows Deployment Services on Windows Server 2012](https://youtu.be/mnSyN268otI)
+[15. Install and configure Windows Deployment Services on Windows Server 2012](https://youtu.be/mnSyN268otI)<br/>
+[16. Inject WSUS updates in a Windows Server 2012 image with Powershell](https://youtu.be/o5M6v9rWj5I)
