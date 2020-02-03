@@ -23,4 +23,5 @@ You can find all presentations, code and other materials from the Windows Server
 [17. Introduction to BranchCache](https://youtu.be/D2Tl_SJQr4U)<br/>
 [18. Adding a new AD Site and a new  DHCP scope to DHCP Failover on Windows Server 2012](https://youtu.be/1122Wdah8PY)<br/>
 [19. Configure BranchCache in Distributed Mode on Windows Server 2012](https://youtu.be/nE-ZlI504AI)<br/>
-[20. Configure BranchCache in Hosted Mode on Windows Server 2012](https://youtu.be/1uaOwleJiHs)
+[20. Configure BranchCache in Hosted Mode on Windows Server 2012](https://youtu.be/1uaOwleJiHs)<br/>
+[21. Data Deduplication on Windows Server 2012](https://youtu.be/bC75MxyArUY)
