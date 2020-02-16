@@ -26,4 +26,5 @@ You can find all presentations, code and other materials from the Windows Server
 [20. Configure BranchCache in Hosted Mode on Windows Server 2012](https://youtu.be/1uaOwleJiHs)<br/>
 [21. Data Deduplication on Windows Server 2012](https://youtu.be/bC75MxyArUY)<br/>
 [22. Configure Storage Spaces on Windows Server 2012 with Powershell](https://youtu.be/fCU36FB0vm0)<br/>
-[23. Configure iSCSI Target on Windows Server 2012 with Powershell](https://youtu.be/-P2kW6lArTY)
+[23. Configure iSCSI Target on Windows Server 2012 with Powershell](https://youtu.be/-P2kW6lArTY)<br/>
+[24. Configure a Failover Cluster on Windows Server 2012 with Powershell](https://youtu.be/Nq5YlIF7Ns8)
