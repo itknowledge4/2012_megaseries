@@ -20,3 +20,5 @@ New-IscsiTargetPortal -TargetPortalAddress bcm01
 Get-IscsiTarget | Connect-IscsiTarget
 #see if the disk has been mounted
 Get-Disk
+#To persiste the disks accross reboots run also this command
+Get-IscsiSession | Register-IscsiSession
