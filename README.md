@@ -29,4 +29,5 @@ You can find all presentations, code and other materials from the Windows Server
 [23. Configure iSCSI Target on Windows Server 2012 with Powershell](https://youtu.be/-P2kW6lArTY)<br/>
 [24. Configure a Failover Cluster on Windows Server 2012 with Powershell](https://youtu.be/Nq5YlIF7Ns8)<br/>
 [25. Continuously Available File Shares with Powershell on Windows Server 2012](https://youtu.be/tJxCFnIMdCU)<br/>
-[26. Cluster aware updating with Powershell on Windows Server 2012](https://youtu.be/kSqMj_0oQZ0)
+[26. Cluster aware updating with Powershell on Windows Server 2012](https://youtu.be/kSqMj_0oQZ0)<br/>
+[27. Install and Configure Active Directory Certificate Services on Windows Server 2012](https://youtu.be/UpiF3zYHQng)
