@@ -31,4 +31,5 @@ You can find all presentations, code and other materials from the Windows Server
 [25. Continuously Available File Shares with Powershell on Windows Server 2012](https://youtu.be/tJxCFnIMdCU)<br/>
 [26. Cluster aware updating with Powershell on Windows Server 2012](https://youtu.be/kSqMj_0oQZ0)<br/>
 [27. Install and Configure Active Directory Certificate Services on Windows Server 2012](https://youtu.be/UpiF3zYHQng)<br/>
-[28. Central SSL certificate store and Server Name Indicator in Windows Server 2012](https://youtu.be/rfa668bnzbw)
+[28. Central SSL certificate store and Server Name Indicator in Windows Server 2012](https://youtu.be/rfa668bnzbw)<br/>
+[29. Introduction to Hyper-V](https://youtu.be/_vH6ptTI7no)
