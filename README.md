@@ -34,4 +34,5 @@ You can find all presentations, code and other materials from the Windows Server
 [28. Central SSL certificate store and Server Name Indicator in Windows Server 2012](https://youtu.be/rfa668bnzbw)<br/>
 [29. Introduction to Hyper-V](https://youtu.be/_vH6ptTI7no)<br/>
 [30. Basic Hyper-V configuration with Powershell on Windows Server 2012](https://youtu.be/CteZ18MJ-Jo)<br/>
-[31. Hyper-V snapshots with Powershell on Windows Server 2012](https://youtu.be/rjTVK-eWfrM)
+[31. Hyper-V snapshots with Powershell on Windows Server 2012](https://youtu.be/rjTVK-eWfrM)<br/>
+[32. Resource metering for Hyper-V with Powershell on Windows Server 2012](https://youtu.be/dITMuv8tMXo)
