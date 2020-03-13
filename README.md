@@ -36,4 +36,5 @@ You can find all presentations, code and other materials from the Windows Server
 [30. Basic Hyper-V configuration with Powershell on Windows Server 2012](https://youtu.be/CteZ18MJ-Jo)<br/>
 [31. Hyper-V snapshots with Powershell on Windows Server 2012](https://youtu.be/rjTVK-eWfrM)<br/>
 [32. Resource metering for Hyper-V with Powershell on Windows Server 2012](https://youtu.be/dITMuv8tMXo)<br/>
-[33. Install and configure Hyper-V Server 2012](https://youtu.be/TRfzr7kFKH0)
+[33. Install and configure Hyper-V Server 2012](https://youtu.be/TRfzr7kFKH0)<br/>
+[34. Hyper-V VM Export and Import with Powershell on Windows Server 2012](https://youtu.be/6d8DRLmKaGc)
