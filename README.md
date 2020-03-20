@@ -38,4 +38,5 @@ You can find all presentations, code and other materials from the Windows Server
 [32. Resource metering for Hyper-V with Powershell on Windows Server 2012](https://youtu.be/dITMuv8tMXo)<br/>
 [33. Install and configure Hyper-V Server 2012](https://youtu.be/TRfzr7kFKH0)<br/>
 [34. Hyper-V VM Export and Import with Powershell on Windows Server 2012](https://youtu.be/6d8DRLmKaGc)<br/>
-[35. Hyper-V Live Migration on Windows Server 2012](https://youtu.be/PVA_qxfpGI0)
+[35. Hyper-V Live Migration on Windows Server 2012](https://youtu.be/PVA_qxfpGI0)<br/>
+[36. Configure Hyper-V Replica with Powershell on Windows Server 2012](https://youtu.be/qmxnRxNC6hU)
