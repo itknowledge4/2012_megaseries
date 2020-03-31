@@ -41,4 +41,5 @@ You can find all presentations, code and other materials from the Windows Server
 [35. Hyper-V Live Migration on Windows Server 2012](https://youtu.be/PVA_qxfpGI0)<br/>
 [36. Configure Hyper-V Replica with Powershell on Windows Server 2012](https://youtu.be/qmxnRxNC6hU)<br/>
 [37. Create a Hyper-V Cluster with Powershell on Windows Server 2012](https://youtu.be/OrT9nuTxeIg)<br/>
-[38. Encrypt Cluster Shared Volumes with Powershell on Windows Server 2012](https://youtu.be/jiX8J7g8noI)
+[38. Encrypt Cluster Shared Volumes with Powershell on Windows Server 2012](https://youtu.be/jiX8J7g8noI)<br/>
+[39. Configure Hyper-V Replica Broker with Powershell for Windows Server 2012 clusters](https://youtu.be/w5rhO4t8nSE)
