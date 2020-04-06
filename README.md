@@ -42,4 +42,5 @@ You can find all presentations, code and other materials from the Windows Server
 [36. Configure Hyper-V Replica with Powershell on Windows Server 2012](https://youtu.be/qmxnRxNC6hU)<br/>
 [37. Create a Hyper-V Cluster with Powershell on Windows Server 2012](https://youtu.be/OrT9nuTxeIg)<br/>
 [38. Encrypt Cluster Shared Volumes with Powershell on Windows Server 2012](https://youtu.be/jiX8J7g8noI)<br/>
-[39. Configure Hyper-V Replica Broker with Powershell for Windows Server 2012 clusters](https://youtu.be/w5rhO4t8nSE)
+[39. Configure Hyper-V Replica Broker with Powershell for Windows Server 2012 clusters](https://youtu.be/w5rhO4t8nSE)<br/>
+[40. Configure VM Failover IP settings with Powershell on Windows Server 2012](https://youtu.be/WcybdGyr_fc)
