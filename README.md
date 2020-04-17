@@ -46,4 +46,5 @@ You can find all presentations, code and other materials from the Windows Server
 [40. Configure VM Failover IP settings with Powershell on Windows Server 2012](https://youtu.be/WcybdGyr_fc)<br/>
 [41. Create a Group Managed Service Account with Powershell on Windows Server 2012](https://youtu.be/0EaQS-ziSMU)<br/>
 [42. Introduction to NIC Teaming in Windows Server 2012](https://youtu.be/lphU9aU7exg)<br/>
-[43. Configure NIC Teaming with Powershell on Windows Server 2012](https://youtu.be/V8T-rCjzkrk)
+[43. Configure NIC Teaming with Powershell on Windows Server 2012](https://youtu.be/V8T-rCjzkrk)<br/>
+[44. Configure Constrained Delegation for Hyper-V with Powershell on Windows Server 2012](https://youtu.be/zSpIbL0ny7Y)
