@@ -48,4 +48,5 @@ You can find all presentations, code and other materials from the Windows Server
 [42. Introduction to NIC Teaming in Windows Server 2012](https://youtu.be/lphU9aU7exg)<br/>
 [43. Configure NIC Teaming with Powershell on Windows Server 2012](https://youtu.be/V8T-rCjzkrk)<br/>
 [44. Configure Constrained Delegation for Hyper-V with Powershell on Windows Server 2012](https://youtu.be/zSpIbL0ny7Y)<br/>
-[45. Introduction to DNSSEC on Windows Server 2012](https://youtu.be/v_-iS1Vs6dg)
+[45. Introduction to DNSSEC on Windows Server 2012](https://youtu.be/v_-iS1Vs6dg)<br/>
+[46. Configure DNSSEC on Windows Server 2012](https://youtu.be/vp4oe-bopkI)
